@@ -1,1 +1,2 @@
 hello world
+https://medium.com/@ssaurel/create-a-nfc-reader-application-for-android-74cf24f38a6f
